@@ -1,0 +1,10 @@
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\bin\Debug\BBS2Zoho.exe.config
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\bin\Debug\BBS2Zoho.exe
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\bin\Debug\BBS2Zoho.pdb
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.FormMain.resources
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.Properties.Resources.resources
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.csproj.GenerateResource.cache
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.csproj.CoreCompileInputs.cache
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.exe
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.pdb
+C:\Users\erwin\Source\Repos\BBS2Zoho\BBS2Zoho\obj\Debug\BBS2Zoho.csprojAssemblyReference.cache

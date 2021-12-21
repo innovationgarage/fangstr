@@ -1,0 +1,15 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BBS2Zoho.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="InputRegex" Type="System.String" Scope="User">
+      <Value Profile="(Default)">NY09(?&lt;transaction_type&gt;\d{2})30(?&lt;transaction_number&gt;\d{7})(?&lt;date_day&gt;\d{2})(?&lt;date_month&gt;\d{2})(?&lt;date_year&gt;\d{2})(?&lt;centre_id&gt;\d{2})(?&lt;day_code&gt;\d{2})(?&lt;partial_settlement_number&gt;\d{1})(?&lt;serial_number&gt;\d{5})(?&lt;sign&gt;[\d-])0+(?&lt;amount&gt;\d+)(?&lt;amount_ore&gt;\d{2})\s+(?&lt;KID&gt;[\d]+)\d\d{6}[\r\n]{1,2}NY09(?&lt;transaction_type_2&gt;\d{2})31(?&lt;transaction_number_2&gt;\d{7})(?&lt;form_number&gt;\d{10})(?&lt;agreement&gt;\d{9})0{7}(?&lt;bank_date&gt;\d{6})(?&lt;debit_account&gt;\d{11})0{22}[\r\n]{1,2}</Value>
+    </Setting>
+    <Setting Name="OutputHeader" Type="System.String" Scope="User">
+      <Value Profile="(Default)">"Payment Number","Date","Exchange Rate","Amount","Description","Invoice Number","Invoice Amount","Mode"</Value>
+    </Setting>
+    <Setting Name="OutputLine" Type="System.String" Scope="User">
+      <Value Profile="(Default)">#i#,{date_day}/{date_month}/{date_year},1.000,{amount}.{amount_ore},{debit_account},{KID},{amount}.{amount_ore},Bank Remittance</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

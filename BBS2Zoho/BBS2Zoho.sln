@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BBS2Zoho", "BBS2Zoho\BBS2Zoho.csproj", "{2070B1F2-A692-4E26-9BA3-84CC15189223}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2070B1F2-A692-4E26-9BA3-84CC15189223}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2070B1F2-A692-4E26-9BA3-84CC15189223}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2070B1F2-A692-4E26-9BA3-84CC15189223}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2070B1F2-A692-4E26-9BA3-84CC15189223}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C26C16B8-3266-4FAB-A09C-EA16469001A1}
+	EndGlobalSection
+EndGlobal
